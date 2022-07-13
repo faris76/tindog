@@ -177,7 +177,7 @@ p {
     position: static;
   }
 
-  #title {
+  #title .container-fluid {
     text-align: center;
   }
 }
